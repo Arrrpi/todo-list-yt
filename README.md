@@ -25,7 +25,7 @@ Persistent storage using `tasks.txt`
 
 ---
 
-## 🛠How to Run
+## How to Run
 1. **Clone or copy the code** into a file named `todo.cpp`.  
 2. **Compile the program** using a C++ compiler:  
    ```bash
